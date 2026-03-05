@@ -22,9 +22,11 @@
 </p>
 
 <h2>Conhecimentos:</h2>
-<p>Infraestrutura e DevOps: Windows Server, Active Directory, Linux, Virtualização, Docker, Terraform, AWS, Microsoft 365 admin <br> 
+<p>Infraestrutura & DevOps: Windows Server, Active Directory, Linux, Virtualização, Docker, Terraform, AWS, Microsoft 365 Admin <br> 
 
-Programação: Python (Django, MongoDB, Flask), SQL (SQL Server, PostgreeSQL, SQLite), JavaScript, HTML/CSS, Git/GitHub, APIs  <br> 
+Desenvolvimento: Python (Django, Flask), JavaScript, HTML, CSS, APIs REST, Git, GitHub  <br> 
+
+Bancos de Dados: MongoDB, PostgreSQL, SQL Server, SQLite <br>
 
 EdTech: Google Workspace for Education, Microsoft 365 Education, Moodle Admin  <br> 
 
