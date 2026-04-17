@@ -27,6 +27,8 @@ Desenvolvimento: Python (Django, Flask), JavaScript, HTML, CSS, APIs REST, Git, 
 
 Bancos de Dados: MongoDB, PostgreSQL, SQL Server, SQLite <br>
 
+IA: Integração de LLMs, APIs, Token counting, System Prompt, monitoramento, defesa e  segurança. Principais modelos: ChatGPT, Claude, Llama, Groq <br>
+
 EdTech: Google Workspace for Education, Microsoft 365 Education, Moodle Admin  <br> 
 
 Redes: Fundamentos de redes (Modelo OSI, TCP/UDP), serviços de rede (DNS e DHCP), redes LAN e VPN, configuração básica de roteadores e switches, noções de firewall e troubleshooting de conectividade  </p>
